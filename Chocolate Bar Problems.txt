@@ -1,0 +1,26 @@
+Are you sure you wish to do this? --> "No" --> What do you wish to change?
+
+--> Amount, Action --> (Amount) Goes back to state the amount you wish to change
+
+--> (Action) Goes back to Select your options (Option 1-4)
+
+More Stuff:
+
+	Rate the service
+
+
+Look at screenshots 1 and 2 in Folder: Megan H
+
+Also, how do I record the transactions in the txt file that it creates for the account
+
+	recording the information is working well, no problems there
+
+Could you test use my program? (Without reading the code)
+I want to make sure my instructions are specific enough.
+
+another thing, since the account id is like a passcode, I wanted to stop the echo
+I searched it up, it was something about:
+	from getpass import getpass
+	getpass()
+Then after that, what you type in shouldn't be showed
+I tried it on python yesterday, and it didn't work
